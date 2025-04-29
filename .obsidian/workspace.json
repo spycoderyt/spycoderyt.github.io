@@ -164,6 +164,8 @@
   },
   "active": "1181fe4531239edd",
   "lastOpenFiles": [
+    "markdown/index.md",
+    "index.html",
     "markdown/default.md",
     "README.md",
     "default.md",
@@ -176,7 +178,6 @@
     "lib/styles/main-styles.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles",
-    "lib/scripts/graph-data.js",
     "lib/media/favicon.png",
     "lib/media/6155340132a851f6089e.svg",
     "test.md"
