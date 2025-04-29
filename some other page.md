@@ -2,4 +2,4 @@
 
 test test lets go back
 
-[index](./index.md)
+[[https://spycoderyt.github.io//index|index]]
