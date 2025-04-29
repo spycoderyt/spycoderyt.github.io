@@ -15,7 +15,7 @@ body {
 
 /* Content container */
 main {
-    max-width: 700px; /* Narrower width like the example */
+    max-width: 350px; /* Narrower width like the example */
     margin: 0 auto;
     padding: 40px 20px; /* Top/bottom padding with left/right padding */
 }
